@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AACA,6BACE,aAAc,CACd,kBACF,CAEA,UACE,kBACF","file":"style.36a2180a.css","sourceRoot":"..\\src","sourcesContent":["/* ALL LABELS EXCEPT EACH LAST ONE IN FIELDSET */\n.form-field:not(:last-child) {\n  display: block;\n  margin-bottom: 10px;\n}\n/* FIELDSET */\n.fieldset {\n  margin-bottom: 20px;\n}\n"]}
